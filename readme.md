@@ -1,10 +1,4 @@
-# Starthub
-* tables
-* rows
-* columns
-
-
-
-```bash
-
-
+# Example of Read me
+*TABLES
+*ROWS
+*COLUMNS
